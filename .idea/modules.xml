@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. HelloWorld &amp; Basics/1. HelloWorld &amp; Basics.iml" filepath="$PROJECT_DIR$/1. HelloWorld &amp; Basics/1. HelloWorld &amp; Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Conditional Logics/2. Conditional Logics.iml" filepath="$PROJECT_DIR$/2. Conditional Logics/2. Conditional Logics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Keywords And Expressions/3. Keywords And Expressions.iml" filepath="$PROJECT_DIR$/3. Keywords And Expressions/3. Keywords And Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Method Overloading/4. Method Overloading.iml" filepath="$PROJECT_DIR$/4. Method Overloading/4. Method Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Classes Part1/6. Classes Part1.iml" filepath="$PROJECT_DIR$/6. Classes Part1/6. Classes Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. Inheritance/7. Inheritance.iml" filepath="$PROJECT_DIR$/7. Inheritance/7. Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. Inhertance Challenge/8. Inhertance Challenge.iml" filepath="$PROJECT_DIR$/8. Inhertance Challenge/8. Inhertance Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. OOP Part 2/9. OOP Part 2.iml" filepath="$PROJECT_DIR$/9. OOP Part 2/9. OOP Part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding Exercise/Coding Exercise.iml" filepath="$PROJECT_DIR$/Coding Exercise/Coding Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Masterclass.iml" filepath="$PROJECT_DIR$/.idea/Java Masterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/Switch Statement/Switch Statement.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/Switch Statement/Switch Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/for-loop/for-loop.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/for-loop/for-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vscode/vscode.iml" filepath="$PROJECT_DIR$/vscode/vscode.iml" />
+    </modules>
+  </component>
+</project>
