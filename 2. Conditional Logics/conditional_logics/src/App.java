@@ -7,13 +7,13 @@ public class App {
         // }
 
         int topScore = 80;
-        if (topScore >= 100) {
+        if (topScore >= 80) {
             System.out.println("You got the high score!");
         }
 
         int secondTopScore = 81;
-        if (topScore > secondTopScore && topScore < 100) {
-            System.out.println("Greater than second topscore and less than 100");
+        if (topScore < secondTopScore && topScore < 100) {
+            System.out.println("Greater than second topScore and less than 100");
         }
     }
 }
