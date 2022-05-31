@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/14. SetsAndHashSets/14. SetsAndHashSets.iml" filepath="$PROJECT_DIR$/14. SetsAndHashSets/14. SetsAndHashSets.iml" />
       <module fileurl="file://$PROJECT_DIR$/15. Concurrency &amp;&amp; Threads/15. Concurrency &amp;&amp; Threads.iml" filepath="$PROJECT_DIR$/15. Concurrency &amp;&amp; Threads/15. Concurrency &amp;&amp; Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/16. CounterThreadApp/16. CounterThreadApp.iml" filepath="$PROJECT_DIR$/16. CounterThreadApp/16. CounterThreadApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. Lambda Expressions/17. Lambda Expressions.iml" filepath="$PROJECT_DIR$/17. Lambda Expressions/17. Lambda Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18. Streams/18. Streams.iml" filepath="$PROJECT_DIR$/18. Streams/18. Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19. Testing/19. Testing.iml" filepath="$PROJECT_DIR$/19. Testing/19. Testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Conditional Logics/2. Conditional Logics.iml" filepath="$PROJECT_DIR$/2. Conditional Logics/2. Conditional Logics.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Keywords And Expressions/3. Keywords And Expressions.iml" filepath="$PROJECT_DIR$/3. Keywords And Expressions/3. Keywords And Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Method Overloading/4. Method Overloading.iml" filepath="$PROJECT_DIR$/4. Method Overloading/4. Method Overloading.iml" />
@@ -22,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/ReadingUserInput/ReadingUserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/Switch Statement/Switch Statement.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/Switch Statement/Switch Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. Control Flow Statements/for-loop/for-loop.iml" filepath="$PROJECT_DIR$/5. Control Flow Statements/for-loop/for-loop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/vscode/vscode.iml" filepath="$PROJECT_DIR$/vscode/vscode.iml" />
     </modules>
   </component>

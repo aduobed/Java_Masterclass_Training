@@ -20,7 +20,7 @@ public class Main {
 //            System.out.println("Element " + i +" value is " + forLoopArray[i]);
 //        }
 
-        //Calling our user input method, store them in an array and loop to rint their value
+        //Calling our user input method, store them in an array and loop to print their value
         int[] myIntegers = getIntegers(5);
         for (int i = 0; i < myIntegers.length; i++) {
             System.out.println("Element " + i + ", type value was " + myIntegers[i]);
